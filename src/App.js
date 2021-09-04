@@ -3,13 +3,13 @@ import React from 'react';
 import { GlobalStyle } from './GlobalStyle';
 //Components
 import Header from './components/Header/index';
-
+import Home from './components/Home'
 function App() { 
 return (
 
     <div>
         <Header />
-        Start here!
+        <Home />
         <GlobalStyle />
     </div>
 
