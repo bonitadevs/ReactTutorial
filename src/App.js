@@ -5,7 +5,7 @@ import { GlobalStyle } from './GlobalStyle';
 const App = () => 
 <div>
 Start here!
-<GlobalStyle />
+{/* <GlobalStyle /> */}
 </div>
 
 export default App;
